@@ -4,7 +4,7 @@
   "description": "todo app",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "sass": "node-sass sass/index.scss index.css"
   },
   "repository": {
     "type": "git",
